@@ -141,6 +141,7 @@
 				6037CA2C2127647E0039AF93 /* Sources */,
 				6037CA2D2127647E0039AF93 /* Frameworks */,
 				6037CA2E2127647E0039AF93 /* Resources */,
+				89A7C6E70F3EA4F22E6CD892 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -229,6 +230,36 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		89A7C6E70F3EA4F22E6CD892 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-LibraryIntegrations/Pods-LibraryIntegrations-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Hyperspace/Hyperspace.framework",
+				"${BUILT_PRODUCTS_DIR}/KeyboardSupport/KeyboardSupport.framework",
+				"${BUILT_PRODUCTS_DIR}/KeychainAccess/KeychainAccess.framework",
+				"${BUILT_PRODUCTS_DIR}/Result/Result.framework",
+				"${BUILT_PRODUCTS_DIR}/Scotty/Scotty.framework",
+				"${BUILT_PRODUCTS_DIR}/SessionTools/SessionTools.framework",
+				"${BUILT_PRODUCTS_DIR}/UtiliKit/UtiliKit.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Hyperspace.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/KeyboardSupport.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/KeychainAccess.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Result.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Scotty.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SessionTools.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/UtiliKit.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LibraryIntegrations/Pods-LibraryIntegrations-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		A182F0C3A38AF6ADE13013A4 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
