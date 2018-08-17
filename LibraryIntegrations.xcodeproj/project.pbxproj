@@ -183,9 +183,11 @@
 				TargetAttributes = {
 					6037CA2F2127647E0039AF93 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1000;
 					};
 					6037CA43212764800039AF93 = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 1000;
 						TestTargetID = 6037CA2F2127647E0039AF93;
 					};
 				};
@@ -473,7 +475,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.bottlerocketstudios.LibraryIntegrations;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -491,7 +493,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.bottlerocketstudios.LibraryIntegrations;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -511,7 +513,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.bottlerocketstudios.LibraryIntegrationsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LibraryIntegrations.app/LibraryIntegrations";
 			};
@@ -532,7 +534,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.bottlerocketstudios.LibraryIntegrationsTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/LibraryIntegrations.app/LibraryIntegrations";
 			};
