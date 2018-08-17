@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -192,14 +192,14 @@
 		1D0D2D798EAB3672B07F68F2E2F2E112 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2A4FE4792EB33B21A3D96DB4678ABCC2 /* Keychain.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Keychain.swift; path = Lib/KeychainAccess/Keychain.swift; sourceTree = "<group>"; };
 		2BD0957E8DE7C75FDBF6FFE47055DF93 /* Pods-LibraryIntegrations-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LibraryIntegrations-umbrella.h"; sourceTree = "<group>"; };
-		2E36BE81E55E558C5E335E57FF5B37FA /* KeychainAccess.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = KeychainAccess.framework; path = KeychainAccess.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2E36BE81E55E558C5E335E57FF5B37FA /* KeychainAccess.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = KeychainAccess.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E448FE4486878F1BF7C0B15CFB83D48 /* Session.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Session.swift; path = SessionTools/Classes/Base/Session.swift; sourceTree = "<group>"; };
 		2F6FDD0D60740C4E3EC5B72CBC3EA9DB /* KeychainAccess.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = KeychainAccess.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		31C0684C2C007BB0105CC60695CC4406 /* Scotty-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Scotty-prefix.pch"; sourceTree = "<group>"; };
-		33C1746D4DCD8EA1679C4D84F68CB345 /* UtiliKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = UtiliKit.framework; path = UtiliKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		33C1746D4DCD8EA1679C4D84F68CB345 /* UtiliKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = UtiliKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		34996624A8ECAC2C65C2A011263ADC49 /* Pods-LibraryIntegrationsTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LibraryIntegrationsTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		349E2DA817DDBC7D94E324C610FF8407 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		367B082E7096AF67B6385A04539E6AEA /* Pods_LibraryIntegrationsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LibraryIntegrationsTests.framework; path = "Pods-LibraryIntegrationsTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		367B082E7096AF67B6385A04539E6AEA /* Pods_LibraryIntegrationsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LibraryIntegrationsTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3874F31EA5EB8A50FC9DC2F4367BAA03 /* ReuseIdentifiable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ReuseIdentifiable.swift; path = Sources/UtiliKit/Instantiation/ReuseIdentifiable.swift; sourceTree = "<group>"; };
 		3B3C47F502F22EAF33247FDE23D4FAC8 /* KeychainStorageContainer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KeychainStorageContainer.swift; path = SessionTools/Classes/KeychainStorage/KeychainStorageContainer.swift; sourceTree = "<group>"; };
 		3B9BA590CAD60695F70E66D4FFCB0F3C /* DecodableContainer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DecodableContainer.swift; path = Sources/Hyperspace/Request/Decoding/DecodableContainer.swift; sourceTree = "<group>"; };
@@ -212,7 +212,7 @@
 		44D50485C8C58015B83A2A53F55A5CAE /* Pods-LibraryIntegrationsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LibraryIntegrationsTests.release.xcconfig"; sourceTree = "<group>"; };
 		471B810CF0318D24BD7C69D47007F00D /* Scotty-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Scotty-dummy.m"; sourceTree = "<group>"; };
 		4A1270241B7209F8652755919570F5F0 /* KeychainAccess-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KeychainAccess-umbrella.h"; sourceTree = "<group>"; };
-		4E6A88C453D94F23A8F4187EA3C0B24A /* Pods_LibraryIntegrations.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_LibraryIntegrations.framework; path = "Pods-LibraryIntegrations.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E6A88C453D94F23A8F4187EA3C0B24A /* Pods_LibraryIntegrations.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LibraryIntegrations.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F563C9F7F1FAFA8EBF8FEB154327DF5 /* HTTP.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HTTP.swift; path = Sources/Hyperspace/HTTP/HTTP.swift; sourceTree = "<group>"; };
 		532F601D42814EE99AA36213A1D9F98F /* RouteRespondable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RouteRespondable.swift; path = Sources/Scotty/RouteRespondable.swift; sourceTree = "<group>"; };
 		5764B5B3AF673B9DB19132DCB07DEDBB /* Scotty.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Scotty.xcconfig; sourceTree = "<group>"; };
@@ -227,22 +227,22 @@
 		6626BFEA7110B77BAB420C1A57986E7F /* Pods-LibraryIntegrationsTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LibraryIntegrationsTests-dummy.m"; sourceTree = "<group>"; };
 		66C3868B06444A5482ADACA84DCC9B9F /* KeychainAccess-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "KeychainAccess-dummy.m"; sourceTree = "<group>"; };
 		67A1D659F31E8F12E33D38D49AB43965 /* Scotty-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Scotty-umbrella.h"; sourceTree = "<group>"; };
-		69131EF28C1F770B3E936309BF2FF6C8 /* Result.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Result.framework; path = Result.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		69131EF28C1F770B3E936309BF2FF6C8 /* Result.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Result.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6A4E2E139335C1D679DAC9C9BB7BAE24 /* UtiliKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = UtiliKit.modulemap; sourceTree = "<group>"; };
 		6DAAEF4203246A952313AD6EA6C6E36F /* Result.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Result.modulemap; sourceTree = "<group>"; };
-		6ECFA4A612A62266405A88C08A0D7F37 /* Scotty.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Scotty.framework; path = Scotty.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6ECFA4A612A62266405A88C08A0D7F37 /* Scotty.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Scotty.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		71EE84E6AB02540014D0DB42D79F9CF2 /* StoryboardIdentifiable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = StoryboardIdentifiable.swift; path = Sources/UtiliKit/Instantiation/StoryboardIdentifiable.swift; sourceTree = "<group>"; };
 		73CCFBDF3589736DE4FB2E23E89C1DEF /* BackendServiceProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BackendServiceProtocol.swift; path = Sources/Hyperspace/Service/Backend/BackendServiceProtocol.swift; sourceTree = "<group>"; };
 		75E31EB434E0F2B6354969C305ED1A7C /* KeyboardSupport-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "KeyboardSupport-dummy.m"; sourceTree = "<group>"; };
 		7708F879CD0EF21953218E751F4FC0CE /* Pods-LibraryIntegrations-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LibraryIntegrations-frameworks.sh"; sourceTree = "<group>"; };
 		78B5704008C198BCAD1E2912E53465A4 /* ContainerViewControllerTransitionAnimator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContainerViewControllerTransitionAnimator.swift; path = Sources/UtiliKit/Container/ContainerViewControllerTransitionAnimator.swift; sourceTree = "<group>"; };
 		79359FD17F40A48E41158C9B3856B034 /* Hyperspace.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Hyperspace.xcconfig; sourceTree = "<group>"; };
-		7A163185E14D1159C75218B6CBE9E601 /* Hyperspace.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Hyperspace.framework; path = Hyperspace.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A163185E14D1159C75218B6CBE9E601 /* Hyperspace.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Hyperspace.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7EEAE3173D685AE7466D725BD7978D1D /* Result-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Result-prefix.pch"; sourceTree = "<group>"; };
 		7EF6E4A5BB62E29FC2BF0D36ECCA5870 /* KeyboardInputAccessory.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KeyboardInputAccessory.swift; path = KeyboardSupport/Classes/KeyboardInputAccessory.swift; sourceTree = "<group>"; };
 		7F45BA4CE9E3F2A452D7097C4AEF9747 /* KeyboardSupport.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = KeyboardSupport.modulemap; sourceTree = "<group>"; };
 		815F99B9631671E565CFC847BB2B8F6E /* KeyboardRespondable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = KeyboardRespondable.swift; path = KeyboardSupport/Classes/KeyboardRespondable.swift; sourceTree = "<group>"; };
-		82B906C2CEED7B7F5A0673C2CCAFB407 /* KeyboardSupport.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = KeyboardSupport.framework; path = KeyboardSupport.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		82B906C2CEED7B7F5A0673C2CCAFB407 /* KeyboardSupport.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = KeyboardSupport.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		82D5774EB7DF4E43D8DA459F5B6DF1E8 /* Hyperspace-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Hyperspace-dummy.m"; sourceTree = "<group>"; };
 		837B718E365FC9F3A4713B755B30D289 /* Pods-LibraryIntegrationsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LibraryIntegrationsTests.debug.xcconfig"; sourceTree = "<group>"; };
 		8C66E74A0D8E4B0A5D50CD80593F1EA7 /* ContainerViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ContainerViewController.swift; path = Sources/UtiliKit/Container/ContainerViewController.swift; sourceTree = "<group>"; };
@@ -250,11 +250,11 @@
 		90B4EE944B33615F47A88EDDE3716598 /* Bundle+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Bundle+Extensions.swift"; path = "Sources/UtiliKit/Version/Bundle+Extensions.swift"; sourceTree = "<group>"; };
 		92A2AE94BE0676F7A5F6317F1DF4082B /* TimelessDate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TimelessDate.swift; path = Sources/UtiliKit/TimelessDate/TimelessDate.swift; sourceTree = "<group>"; };
 		932007EFB0490D6CBDE98034ABC0B31E /* SessionTools-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SessionTools-umbrella.h"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93E23219410CBB05E819ACA9DC544B29 /* Result-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Result-dummy.m"; sourceTree = "<group>"; };
 		948E9714CD0D4A1B8F3601CF34C003EC /* NetworkServiceProtocol.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetworkServiceProtocol.swift; path = Sources/Hyperspace/Service/Network/NetworkServiceProtocol.swift; sourceTree = "<group>"; };
 		9585E431CB6B241EF4222611046265D7 /* FileManager+Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "FileManager+Extensions.swift"; path = "Sources/UtiliKit/General/FileManager+Extensions.swift"; sourceTree = "<group>"; };
-		96ADAC2A5C2B7108DC5F3520346AC3CB /* SessionTools.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SessionTools.framework; path = SessionTools.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		96ADAC2A5C2B7108DC5F3520346AC3CB /* SessionTools.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SessionTools.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9FEE91A41BC5D2304D74F4E9B2948793 /* NetworkSessionDataTask.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetworkSessionDataTask.swift; path = Sources/Hyperspace/Service/Network/NetworkSessionDataTask.swift; sourceTree = "<group>"; };
 		A1AAC089D1545BD5736744A4EEF9C2E2 /* Pods-LibraryIntegrations.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LibraryIntegrations.release.xcconfig"; sourceTree = "<group>"; };
 		A47C95B91E0EDDFA9D194E3343685AC5 /* SessionContainer.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SessionContainer.swift; path = SessionTools/Classes/Base/SessionContainer.swift; sourceTree = "<group>"; };
@@ -384,7 +384,6 @@
 				2A4FE4792EB33B21A3D96DB4678ABCC2 /* Keychain.swift */,
 				175C88DABF74AE7DB05125471BE00CD4 /* Support Files */,
 			);
-			name = KeychainAccess;
 			path = KeychainAccess;
 			sourceTree = "<group>";
 		};
@@ -456,7 +455,6 @@
 				8F706E77AB37817B49835CE4485C5112 /* URLQueryParameterEncoder.swift */,
 				10D1CE8E399D71EFD1EAF5F1C77B7B73 /* Support Files */,
 			);
-			name = Hyperspace;
 			path = Hyperspace;
 			sourceTree = "<group>";
 		};
@@ -513,7 +511,6 @@
 				8E98E8CC51C3220270E3F29F0D036DA8 /* Instantiation */,
 				C1C4D9CBB77CC27AA516D149D9E2E45D /* Support Files */,
 			);
-			name = UtiliKit;
 			path = UtiliKit;
 			sourceTree = "<group>";
 		};
@@ -547,7 +544,6 @@
 				9F3B29157E2376B484B16E0212CC75D7 /* Base */,
 				8D7965424E017BB2F5B7FC78D47100AC /* Support Files */,
 			);
-			name = SessionTools;
 			path = SessionTools;
 			sourceTree = "<group>";
 		};
@@ -675,7 +671,6 @@
 				D7B0A297246E608CB2730C7F797CBB6A /* ResultProtocol.swift */,
 				8751B8B6EDCE2E73CB36B57AE82CE342 /* Support Files */,
 			);
-			name = Result;
 			path = Result;
 			sourceTree = "<group>";
 		};
@@ -687,7 +682,6 @@
 				815F99B9631671E565CFC847BB2B8F6E /* KeyboardRespondable.swift */,
 				5065DC197B7D60DC87603ABF8ACBB238 /* Support Files */,
 			);
-			name = KeyboardSupport;
 			path = KeyboardSupport;
 			sourceTree = "<group>";
 		};
@@ -710,7 +704,6 @@
 				532F601D42814EE99AA36213A1D9F98F /* RouteRespondable.swift */,
 				CE514F02B520D3E93A59818EA666DEC8 /* Support Files */,
 			);
-			name = Scotty;
 			path = Scotty;
 			sourceTree = "<group>";
 		};
@@ -969,7 +962,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
-				LastUpgradeCheck = 0930;
+				LastUpgradeCheck = 1000;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -1205,11 +1198,7 @@
 				INFOPLIST_FILE = "Target Support Files/Hyperspace/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Hyperspace/Hyperspace.modulemap";
 				PRODUCT_MODULE_NAME = Hyperspace;
 				PRODUCT_NAME = Hyperspace;
@@ -1242,11 +1231,7 @@
 				INFOPLIST_FILE = "Target Support Files/Scotty/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Scotty/Scotty.modulemap";
 				PRODUCT_MODULE_NAME = Scotty;
 				PRODUCT_NAME = Scotty;
@@ -1279,11 +1264,7 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-LibraryIntegrationsTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-LibraryIntegrationsTests/Pods-LibraryIntegrationsTests.modulemap";
 				OTHER_LDFLAGS = "";
@@ -1381,11 +1362,7 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-LibraryIntegrations/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-LibraryIntegrations/Pods-LibraryIntegrations.modulemap";
 				OTHER_LDFLAGS = "";
@@ -1420,11 +1397,7 @@
 				INFOPLIST_FILE = "Target Support Files/SessionTools/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/SessionTools/SessionTools.modulemap";
 				PRODUCT_MODULE_NAME = SessionTools;
 				PRODUCT_NAME = SessionTools;
@@ -1456,11 +1429,7 @@
 				INFOPLIST_FILE = "Target Support Files/KeychainAccess/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/KeychainAccess/KeychainAccess.modulemap";
 				PRODUCT_MODULE_NAME = KeychainAccess;
 				PRODUCT_NAME = KeychainAccess;
@@ -1493,11 +1462,7 @@
 				INFOPLIST_FILE = "Target Support Files/Result/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Result/Result.modulemap";
 				PRODUCT_MODULE_NAME = Result;
 				PRODUCT_NAME = Result;
@@ -1530,11 +1495,7 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-LibraryIntegrationsTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-LibraryIntegrationsTests/Pods-LibraryIntegrationsTests.modulemap";
 				OTHER_LDFLAGS = "";
@@ -1567,11 +1528,7 @@
 				INFOPLIST_FILE = "Target Support Files/UtiliKit/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/UtiliKit/UtiliKit.modulemap";
 				PRODUCT_MODULE_NAME = UtiliKit;
 				PRODUCT_NAME = UtiliKit;
@@ -1603,11 +1560,7 @@
 				INFOPLIST_FILE = "Target Support Files/KeyboardSupport/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/KeyboardSupport/KeyboardSupport.modulemap";
 				PRODUCT_MODULE_NAME = KeyboardSupport;
 				PRODUCT_NAME = KeyboardSupport;
@@ -1640,11 +1593,7 @@
 				INFOPLIST_FILE = "Target Support Files/KeyboardSupport/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/KeyboardSupport/KeyboardSupport.modulemap";
 				PRODUCT_MODULE_NAME = KeyboardSupport;
 				PRODUCT_NAME = KeyboardSupport;
@@ -1676,11 +1625,7 @@
 				INFOPLIST_FILE = "Target Support Files/KeychainAccess/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/KeychainAccess/KeychainAccess.modulemap";
 				PRODUCT_MODULE_NAME = KeychainAccess;
 				PRODUCT_NAME = KeychainAccess;
@@ -1749,6 +1694,7 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Release;
@@ -1770,11 +1716,7 @@
 				INFOPLIST_FILE = "Target Support Files/Hyperspace/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Hyperspace/Hyperspace.modulemap";
 				PRODUCT_MODULE_NAME = Hyperspace;
 				PRODUCT_NAME = Hyperspace;
@@ -1806,11 +1748,7 @@
 				INFOPLIST_FILE = "Target Support Files/Scotty/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Scotty/Scotty.modulemap";
 				PRODUCT_MODULE_NAME = Scotty;
 				PRODUCT_NAME = Scotty;
@@ -1843,11 +1781,7 @@
 				INFOPLIST_FILE = "Target Support Files/UtiliKit/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/UtiliKit/UtiliKit.modulemap";
 				PRODUCT_MODULE_NAME = UtiliKit;
 				PRODUCT_NAME = UtiliKit;
@@ -1880,11 +1814,7 @@
 				INFOPLIST_FILE = "Target Support Files/SessionTools/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/SessionTools/SessionTools.modulemap";
 				PRODUCT_MODULE_NAME = SessionTools;
 				PRODUCT_NAME = SessionTools;
@@ -1918,11 +1848,7 @@
 				INFOPLIST_FILE = "Target Support Files/Pods-LibraryIntegrations/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-LibraryIntegrations/Pods-LibraryIntegrations.modulemap";
 				OTHER_LDFLAGS = "";
@@ -1957,11 +1883,7 @@
 				INFOPLIST_FILE = "Target Support Files/Result/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/Result/Result.modulemap";
 				PRODUCT_MODULE_NAME = Result;
 				PRODUCT_NAME = Result;
