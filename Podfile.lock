@@ -1,7 +1,7 @@
 PODS:
   - Hyperspace (2.0.0):
     - Result (~> 3.2.4)
-  - KeyboardSupport (1.0.0)
+  - KeyboardSupport (1.0.1)
   - KeychainAccess (3.1.1)
   - Result (3.2.4)
   - Scotty (2.0.0)
@@ -38,7 +38,7 @@ SPEC REPOS:
 
 SPEC CHECKSUMS:
   Hyperspace: 4a212ced75abb47fd5fa0237ef4dc52850364dba
-  KeyboardSupport: 2c059be02d874c793b8f47bbb197804d310a4644
+  KeyboardSupport: 15a0b122bb02f26fd082f7faa1dd6f22aac113c1
   KeychainAccess: 7bd430028059754a3debab3cfc0bd1fc7fb85df3
   Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
   Scotty: bcf910f17757a7358f574c7c8a7b22d230d36f8c
