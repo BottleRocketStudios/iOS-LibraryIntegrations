@@ -9,6 +9,7 @@ The main purpose of this repository is to provide an ongoing Xcode sample projec
 |-----------------|---------|----------------------------|----------------------------|------------------------|
 | Hyperspace      | 2.0.0   | N                          | Y                          | Y                      |
 | KeyboardSupport | 1.0.0   | N                          | Y                          | N                      |
+|                 | 1.0.1   | N                          | Y                          | Y                      |
 | SessionTools    | 1.0.1   | N                          | Y                          | Y                      |
 | Scotty          | 2.0.0   | Y                          | Y                          | Y                      |
 | UtiliKit        | 1.3.0   | N                          | Y                          | N                      |
