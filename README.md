@@ -7,7 +7,8 @@ The main purpose of this repository is to provide an ongoing Xcode sample projec
 ## Compatability Matrix
 | Library         | Version | Swift 3.3 (Xcode 9.x-10.0) | Swift 4.1 (Xcode 9.x-10.0) | Swift 4.2 (Xcode 10.0) |
 |-----------------|---------|----------------------------|----------------------------|------------------------|
-| Hyperspace      | 2.0.0   | N                          | Y                          | Y                      |
+| Hyperspace      | 1.1.1   | N                          | Y                          | Y                      |
+|                 | 2.0.0   | N                          | Y                          | Y                      |
 | KeyboardSupport | 1.0.0   | N                          | Y                          | N                      |
 |                 | 1.0.1   | N                          | Y                          | Y                      |
 | SessionTools    | 1.0.1   | N                          | Y                          | Y                      |
